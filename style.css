@@ -14,6 +14,7 @@
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
+    backdrop-filter:;
     
 display: flex;
     justify-content: center; 
@@ -103,14 +104,21 @@ letter-spacing: 4px;
 }
 .log-child p{
     text-align: center;
+    margin-top: 20px;
 }
 .sign{
     /* margin-top: 18px; */
     /* margin-left: 84px; */
-    width: 118px;
+    width: 200px;
     height: 40px;
     font-weight: bold;
     border-radius: 20px;
+    color: #000910;
+    background-image: url(33.jpg);
+    object-fit: contain;
+    font-size: 17px;
+    background-position: center;
+;
 }
 .sign:hover{
     background-color: rgb(161, 110, 176);
