@@ -184,12 +184,7 @@ letter-spacing: 4px;
 
     width: 200px;
   }
-  /* .log-child{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-  } */
+
   .icon{
     margin-top: -43px;
   }
@@ -209,20 +204,7 @@ letter-spacing: 4px;
   
   
 }
-/* @media  screen and (max-width:542px) {
-    .sign{
-    position: absolute;
-    bottom: 63px;
-    right: 109px;
-  }
- }
-@media  screen and (max-width:470px) {
-    .sign{
-    position: absolute;
-    bottom: 63px;
-    right: 73px;
-  }
- }  */
+
  .cc1:hover{
     transform: scale(1.1);
     
